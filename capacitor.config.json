@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "nutricion",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
